@@ -139,8 +139,9 @@ int main()
         for(int i=0; i<n; i++){
             cityTrips.push_back(trips[i]); //adding the passing cities in the vector        
 
-        }
-        cout << "Riverside ";
+        } 
+      //cout<<"RiverSide";This is where the problem occured, I moved this line to line 187 to fix the repeat of Riverside in the output
+      
         path.city1 = "Riverside"; //initialize the first element of the structure
         path.destination = "Riverside";
         path.city2 = cityTrips[0]; 
@@ -183,7 +184,8 @@ int main()
     
     while(true){
         int choice; // user choice
-        cout << "Search market maps:" << endl;
+        cout << "Riverside ";
+        cout << "Inland Empire Search market maps:" << endl;
         cout << "1. Possible paths: " << endl;
         cout << "2. Shortest path: " << endl;
         cout << "3. Lowest_cost path: " << endl;
