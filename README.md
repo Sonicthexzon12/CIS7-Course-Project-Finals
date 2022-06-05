@@ -53,9 +53,10 @@ Provide recommendation on improving the limitations of the program.
 
 
 
-3. Pseudocode: 
+3. FlowChart: 
 
-This program calculates the total distance through 4 cities of Riverside, Perris, Moreno Valley, and Hemet through different possible inputs of 4 choices: possible paths, shortest path, lowest cost path, and longest path
+![image](https://user-images.githubusercontent.com/106198193/172075776-9dc4f1a3-b78a-4ba0-ab6b-e0d58f488432.png)
+
 
 
 
