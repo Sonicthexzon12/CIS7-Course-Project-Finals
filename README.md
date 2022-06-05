@@ -55,6 +55,7 @@ Provide recommendation on improving the limitations of the program.
 
 3. Pseudocode: 
 
+This program calculates the total distance through 4 cities of Riverside, Perris, Moreno Valley, and Hemet through different possible inputs of 4 choices: possible paths, shortest path, lowest cost path, and longest path
 
 
 
