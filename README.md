@@ -1,6 +1,6 @@
 #README
 
-Team Name: 
+1.Team Name: 
 Team Empire
 
 Members: 
@@ -9,7 +9,7 @@ Lawrence Montgomery, Yan Cheng
 Project: 
 Inland Empire Solar Sales Travel
 
-Summary:
+2.Summary:
 
 the marketing specialist begins the trip from home in Riverside, determine the variations of 
 the trip to the noted cities that he must take to market the solar products that goes through 4 different paths:  possible paths, shortest path, 
@@ -53,7 +53,8 @@ Provide recommendation on improving the limitations of the program.
 
 
 
-3. pseudocode 
+3. Pseudocode: 
+
 
 
 
