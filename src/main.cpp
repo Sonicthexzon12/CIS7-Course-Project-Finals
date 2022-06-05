@@ -140,7 +140,6 @@ int main()
             cityTrips.push_back(trips[i]); //adding the passing cities in the vector        
 
         } 
-      //cout<<"RiverSide";This is where the problem occured, I moved this line to line 187 to fix the repeat of Riverside in the output
       
         path.city1 = "Riverside"; //initialize the first element of the structure
         path.destination = "Riverside";
