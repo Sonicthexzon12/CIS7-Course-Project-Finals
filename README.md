@@ -28,7 +28,7 @@ What solutions are you implementing in the project?
 
 Provide explanation of calculations and algorithm implementation.
 
-·The main function which starts at Riverside we add different city trips (Moreno Valley, Perris, and Hemet) with the use of edges and vectors to move at the closest pathway (for example Riverside® Perris®Hemet®Riverside) then add the total distance of the trip travels. We have also created 4 algorithm choices using the while function to let user select which paths (Possible paths, shortest paths, lowest cost paths, and longest paths) in how they can reach to their destination.
+·The main function which starts at Riverside we add different city trips (Moreno Valley, Perris, and Hemet) with the use of edges and vectors to move at the closest pathway (for example Riverside->Perris->Hemet->Riverside) then add the total distance of the trip travels. We have also created 4 algorithm choices using the while function to let user select which paths (Possible paths, shortest paths, lowest cost paths, and longest paths) in how they can reach to their destination.
 
 What is the program objectives? Explain how your program is interacting with the user 
 and its purpose.
