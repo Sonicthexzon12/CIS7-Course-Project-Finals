@@ -1,20 +1,20 @@
 # CIS7-Course-Project
 Case 1: Inland Empire Solar Sales Travel
 
-1.Team Name: 
+1.Team Name:<br />
 Team Empire
 
-Members: 
+Members:<br /> 
 Lawrence Montgomery, Yan Cheng
  
-2.Summary:
+# Summary
 
 the marketing specialist begins the trip from home in Riverside, determine the variations of 
 the trip to the noted cities that he must take to market the solar products that goes through 4 different paths:  possible paths, shortest path, 
 lowest cost path, and longest path. 
 
 
-Details:
+# Details
 
 What problems are you solving in this project?
 
@@ -51,7 +51,7 @@ Provide recommendation on improving the limitations of the program.
 
 
 
-3. FlowChart: 
+# FlowChart 
 
 
 
@@ -73,7 +73,7 @@ Provide recommendation on improving the limitations of the program.
 
 
 
-Instructions:
+# Instructions
 1. If the marketing specialist begins the trip from home in Riverside, determine the variations of 
 the trip to the noted cities that he must take to market the solar products. 
 2. Determine shortest path, and the most low-cost trips for the marketing specialist.
