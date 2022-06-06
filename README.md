@@ -7,9 +7,6 @@ Team Empire
 Members: 
 Lawrence Montgomery, Yan Cheng
  
-Project: 
-Inland Empire Solar Sales Travel
-
 2.Summary:
 
 the marketing specialist begins the trip from home in Riverside, determine the variations of 
