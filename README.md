@@ -83,7 +83,7 @@ including matrices, adjacencies.
 
 ![phpe08qBr](https://user-images.githubusercontent.com/106198193/171251699-42c9c09e-92d6-4b7c-8ed0-e1b28e3f263a.png)
 
-Credits by:
+# Credits
 
 Yan Cheng
 
