@@ -22,11 +22,11 @@ What problems are you solving in this project?
 
 What solutions are you implementing in the project? 
 
-·The solution is using 2D arrays, and adding in vectors, strings, and edges to determine different possible routes in traveling through the Inland Empire Solar Sales.
+·The project uses STL-vectors and structures to define the edges and paths. It also uses sort to sort the order of city names, and permute and combine each route. 
 
 Provide explanation of calculations and algorithm implementation.
 
-·The main function which starts at Riverside we add different city trips (Moreno Valley, Perris, and Hemet) with the use of edges and vectors to move at the closest pathway (for example Riverside->Perris->Hemet->Riverside) then add the total distance of the trip travels. We have also created 4 algorithm choices using the while function to let user select which paths (Possible paths, shortest paths, lowest cost paths, and longest paths) in how they can reach to their destination.
+· In the project, there are four choices to choose which paths the specialist wants to find, choice 1 is to give the specialist all the paths that can be used wouthout repeating any noted cities; choice 2 is to calculate the shortest path; choice 3 is to calculate the lowest cost path; choice 4 is to calcuate the longest path that the specialist might need to void.
 
 What is the program objectives? Explain how your program is interacting with the user 
 and its purpose.
@@ -39,13 +39,11 @@ How is discrete structures implemented in the C++ program?
 
 What are the limitations of the program?
 
-·The limitations are finding different location paths, the total distance of miles travel, and handling main function to fix up the output of the code.
+·The limitation of this project is that it can’t calculate the long paths when the user may need to repeat some cities.
 
 Provide recommendation on improving the limitations of the program.
 
-·We recommended on creating 2D array vectors and edges to help have a lower limitation on the program code in showing a row number of vertices for the start city and destination in an ascending order      
-
-
+· The projects can use other STL containers to shorten and simplify the codes when I use the for loop and if statements to get the total distance for each path.    
 
 
 
